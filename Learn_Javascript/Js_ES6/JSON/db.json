@@ -1,0 +1,14 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "name": "JavaScript",
+      "description": "JavaScript is a programming language that allows you to implement complex features on web pages."
+    },
+    {
+      "id": "d443",
+      "name": "PHPa",
+      "desc": "abc"
+    }
+  ]
+}

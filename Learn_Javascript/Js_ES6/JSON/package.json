@@ -1,0 +1,23 @@
+{
+  "name": "visualstudiocode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luclap123/LearnAndPracticeWebsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luclap123/LearnAndPracticeWebsite/issues"
+  },
+  "homepage": "https://github.com/luclap123/LearnAndPracticeWebsite#readme",
+  "description": "",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
